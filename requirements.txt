@@ -2,6 +2,7 @@ black
 
 jupyterlab
 nbdev
+jupyterlab-quarto
 
 python-dotenv
 

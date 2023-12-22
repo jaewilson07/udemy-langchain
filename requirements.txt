@@ -1,0 +1,11 @@
+black
+
+jupyterlab
+nbdev
+
+python-dotenv
+
+langchain
+openai
+
+wikipedia

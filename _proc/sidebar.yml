@@ -1,0 +1,24 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - section: client
+        contents:
+          - client/client.ipynb
+          - client/utils.ipynb
+      - section: integrations
+        contents:
+          - integrations/agents.ipynb
+          - integrations/proxycurl.ipynb
+          - integrations/tools.ipynb
+      - section: projects
+        contents:
+          - section: posts
+            contents:
+              - section: prompt_templates
+                contents: []
+                href: projects/posts/prompt_templates/index.ipynb
+              - section: working_with_agents
+                contents: []
+                href: projects/posts/working_with_agents/index.ipynb
+        href: projects/index.qmd
